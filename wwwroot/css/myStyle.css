@@ -1,0 +1,169 @@
+div.anjuUnderline
+{
+    display:block;
+    border:2px solid #AAA;
+    clear: both;
+    margin-top: -55px;
+}
+
+h2.anjuUnderline
+{
+	float:left;
+    border-bottom:4px solid #e44049;
+    z-index: 100;
+    margin-bottom: -4px;
+    padding-bottom: 0px;
+	font-size: 35px;
+}
+
+#header .logo img
+{
+	opacity: 100; !important
+	height: 50px;
+	width: 246px;
+}
+
+.travelo-process .process
+{
+	width: 105%;
+}
+
+.chaser
+{
+	background-color: #e44049;
+}
+
+.chaser .logo
+{
+	display: none;
+}
+
+#header .logo a, .chaser .logo a
+{
+	background: white;	
+}
+
+#header .logo
+{
+	margin-top: 10px;
+	padding-bottom: 5px;	
+}
+
+#main-menu ul.menu
+{
+	margin-top: 10px;
+}
+
+#main-menu ul.menu > li > a, .chaser ul.menu > li > a
+{
+	font-size: 1.4em;
+}
+
+p
+{
+	font-size: 1em;
+}
+
+.chaser ul.menu > li > a, .chaser ul.menu > li > a:hover
+{
+	color: white;
+}
+
+#header .topnav ul.quick-menu > li > a
+{
+	font-size: 1em;
+}
+
+.filters-container ul.filters-option li a
+{
+	font-size: 1em;
+}
+
+.image-box .box img, .image-box.box img
+{
+	height: 175px;
+}
+
+#travel-guide .features
+{
+	font-size: 1.2em;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.long-description
+{
+	font-size: 1.2em;
+}
+
+#hotel-description .intro.table-wrapper, #hotel-reviews .intro.table-wrapper, #hotel-write-review .intro.table-wrapper, #car-details .intro.table-wrapper, #flight-details .intro.table-wrapper, #cruise-description .intro.table-wrapper, #cruise-reviews .intro.table-wrapper, #cruise-write-review .intro.table-wrapper, #travel-guide .intro.table-wrapper, #tour-details .intro.table-wrapper
+{
+	border-spacing: 0px;
+}
+
+#hotel-description .features, #cruise-description .features, #travel-guide .features
+{
+	padding-top: 50px;
+}
+
+#hotel-description .long-description, #cruise-description .long-description, #travel-guide .long-description
+{
+	margin-top: 0px;
+}
+
+#main-menu ul.menu > li.active > a
+{
+	color: black;
+}
+
+.chaser ul.menu > li.active > a
+{
+	color: white;
+}
+
+.travelo-process .process.first, .travelo-process .process.forth
+{
+	right: 110%;
+}
+
+.travelo-process .process.second, .travelo-process .process.third
+{
+	left: 110%;
+}
+
+ul.arrow, ul.triangle, ul.circle, ul.check, ul.chevron, ul.arrow-square, ul.check-square, ul.check-circle, ul.decimal, ul.upper-roman, ul.lower-latin, ul.upper-latin
+{
+	font-size: 20px;
+}
+
+.anjuTable
+{
+	margin: 20px;
+}
+
+.anjuTable td
+{
+	border: 1px solid #ddd;
+    padding: 8px;
+	font-size: 0.75em;
+	padding: 10px;
+}
+
+#customers td, #customers th {
+    
+}
+
+.anjuTable tr:nth-child(even)
+{
+	background-color: #f2f2f2;
+}
+
+body
+{
+	font-size: 100%;
+}
+
+.photo-gallery img
+{
+	max-height: 560px;
+}
